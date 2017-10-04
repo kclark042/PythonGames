@@ -8,4 +8,4 @@ Each match is one point.
 
 Waiting for a few seconds at the end of a game will start it over.
 
-The game is adapated from By Al Sweigart from http://inventwithpython.com/pygame
+The game is adapated from Al Sweigart's code found at http://inventwithpython.com/pygame
