@@ -1,0 +1,9 @@
+Persist scores
+
+Add multiplayer 
+
+Make cards more card-like
+
+Add more of a flipping animation instead of just covering
+
+Get the timer to be more accurate and maybe get rid of the time pausing during the animation
